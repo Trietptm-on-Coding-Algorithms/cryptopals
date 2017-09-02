@@ -1,0 +1,6 @@
+[package]
+name = "chal7"
+version = "0.1.0"
+authors = ["sam"]
+
+[dependencies]

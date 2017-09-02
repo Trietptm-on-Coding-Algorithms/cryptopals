@@ -1,0 +1,8 @@
+[package]
+name = "chal2"
+version = "0.1.0"
+authors = ["sam"]
+
+[dependencies]
+openssl = "0.9.11"
+rustc-serialize = "0.3"
